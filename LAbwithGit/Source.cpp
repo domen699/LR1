@@ -15,7 +15,7 @@ double primer(double x, double y, double z)
 
 int main()
 {
-	double x, y, z, a, b, c, h;
+	double x, y, z, h;
 	std::cout << "Vvedite x\n";
 	std::cin >> x;
 	std::cout << "Vvedite y\n";
